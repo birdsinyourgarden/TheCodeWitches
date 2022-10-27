@@ -1,0 +1,9 @@
+/*menu*/
+
+.main-header {
+    display: flex;
+}
+
+.main-header div nav ul li{
+    display: inline-block;
+}
