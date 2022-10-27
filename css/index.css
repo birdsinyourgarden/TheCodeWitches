@@ -2,8 +2,16 @@
 
 .main-header {
     display: flex;
+    align-items: center;
+    background-image: url("../images/background-header.jpg");
 }
 
-.main-header div nav ul li{
-    display: inline-block;
+.main-header li{
+    display: inline;
+    padding: 15px 20px;
+    background-color:pink;
+}
+
+.main-header nav {
+    align-self: flex-end;
 }
