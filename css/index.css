@@ -1,17 +1,62 @@
+/*formateo*/
+
+body {
+    margin: 0px;
+}
+
 /*menu*/
 
 .main-header {
     display: flex;
     align-items: center;
     background-image: url("../images/background-header.jpg");
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-between;
 }
 
-.main-header li{
+.site-identity img {
+    width: 270px;
+}
+
+.main-header li {
     display: inline;
     padding: 15px 20px;
-    background-color:pink;
+    font-family: "Teko";
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
 }
 
 .main-header nav {
     align-self: flex-end;
+}
+
+/*footer*/
+
+.main-footer {
+    display: flex;
+    align-items: center;
+    background-image: url("../images/background-footer.jpg");
+    padding: 35px 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-between;
+}
+
+.footer-info {
+    display: inline;
+    font-family: "Teko";
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+
+.footer-social-media a{
+    padding: 0 20px;
+}
+
+.footer-social-media img {
+    width: 35px;
 }
