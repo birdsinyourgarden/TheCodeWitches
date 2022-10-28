@@ -1,13 +1,13 @@
-## TheCodeWitches
+# TheCodeWitches
 
-# Description
+## Description
 
 We are women who call on our best qualities. We add our ingredients: the wisdom of commitment, inclusiveness,
 and Agile methodology. All this leads us to turn the language of programming into a social and creative communication at the service of humanity. 
 
 The magic of believing in ourselves, is to know that everything is possible. 💜
 
-# Members
+## Members
 
 Paloma Ruiz Ramírez
 https://github.com/birdsinyourgarden
@@ -20,13 +20,13 @@ https://github.com/AlesiaCoder
 Florencia Tiscornia SCRUM Master
 https://github.com/FlorTiscornia
 
-# Screenshots
+## Screenshots
 
-# Stacks
+## Stacks
 
 In this project we have used HTML 5 and CSS 3.
 
-# Methodology
+## Methodology
 
 We have worked with Agile methodology and SCRUM. We have also worked with Mob programming.
 
