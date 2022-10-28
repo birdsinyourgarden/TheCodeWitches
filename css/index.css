@@ -33,6 +33,46 @@ body {
     align-self: flex-end;
 }
 
+/*fotos coders*/
+
+.main-container section{
+    display: flex;
+    justify-content: center;
+
+}
+
+.file-team {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 325px;
+    margin: 50px;
+}
+
+.file-team img {
+    width: 150px;
+    border-radius: 99%;
+    align-self: center;
+}
+
+.file-team-info h2 {
+    text-align: center;
+    font-family: "Teko";
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+}
+
+.file-team-info p {
+    text-align: center;
+    font-family: "Teko";
+    font-size: 24px;
+    font-weight: 400;
+    color: #4717f6;
+}
+.file-team-info p:last-child {
+    color: black;
+}
 /*footer*/
 
 .main-footer {
