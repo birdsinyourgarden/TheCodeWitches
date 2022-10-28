@@ -20,10 +20,7 @@ https://github.com/AlesiaCoder
 Florencia Tiscornia SCRUM Master
 https://github.com/FlorTiscornia
 
-<<<<<<< HEAD
 ## Screenshots
-=======
-# Screenshots
 ![PROYECTO 1](https://user-images.githubusercontent.com/108950985/198567562-1daaa04b-9277-452f-b47e-3f29dd8eb7f4.jpg)
 >>>>>>> c6b67f8d9730a4f7907cb43ecdbedf18716b7969
 
